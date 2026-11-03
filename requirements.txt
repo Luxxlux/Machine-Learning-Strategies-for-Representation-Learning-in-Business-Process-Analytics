@@ -1,2 +1,5 @@
 streamlit
 pandas
+pm4py
+psycopg
+scikit-learn
